@@ -1,0 +1,11 @@
+.product-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.product {
+  height: 30vh;
+}
